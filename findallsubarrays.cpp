@@ -10,6 +10,7 @@ void subArray(vector<int> &arr)
     // Pick starting point
     for (int i = 0; i < n; i++)
     {
+        //here is the final code
         // Pick ending poin
         for (int j = i; j < n; j++)
         {
